@@ -1,0 +1,16 @@
+Objetivos:
+
+- Conocer los tipos de datos en Numpy
+- Generación y manejo de arrays
+- Conocer las funciones de manipulación de datos
+- Aprender a trabajar con funciones matemáticas en Numpy
+
+Anotaciones:
+
+- Basado en la documentación oficial de Numpy
+
+Índice:
+
+- Introducción
+- Manipulación de arrays
+- Operaciones con Numpy
