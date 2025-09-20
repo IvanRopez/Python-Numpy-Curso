@@ -1,0 +1,5 @@
+Es una librería de Python que añade Vectores y Matrices.
+Está escrita en C, siendo así más rápida.
+Incluye funciones para operaciones matemáticas, lógicas, ordenación, I/O, estadísticas, etc.
+El objeto ndarray es el tipo más importate
+Muy usado en Data Science.
